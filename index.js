@@ -38,7 +38,7 @@ app.listen(port, () => {
 let currentIndex = 0;
 const channelId = '';
 
-const statusMessages = ["Watching BotWorks"];
+const statusMessages = ["Playing Crafty's Corner Store!"];
 
 async function login() {
   try {
